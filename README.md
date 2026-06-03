@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajashri Rajage
 
-🎓 Electrical Engineering Graduate
+🎓 Electronics and Telecommunication Engineering Graduate
 
 📊 Aspiring Data Analyst
 
