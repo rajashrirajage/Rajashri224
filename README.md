@@ -19,6 +19,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajashrirajage&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rajashrirajage&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajashrirajage&layout=compact)
+
 ---
 [![](https://komarev.com/ghpvc/?username=rajashrirajage&icon=0&color=0)](https://visitcount.itsvg.in)
 
