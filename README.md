@@ -31,8 +31,5 @@
 🔹 Tableau Dashboards
 ## Connect With Me
 LinkedIn: https://linkedin.com/in/rajashri-rajage
-
 Email: rajashrirajage224l@gmail.com
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
-Email: your-email@gmail.com
